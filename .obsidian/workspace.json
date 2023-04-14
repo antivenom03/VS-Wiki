@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Characters/Imelda Belpaese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1f7ab8272ca80a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Characters/_Character Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,14 +154,21 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a540bb7fd064bd6d",
+  "active": "b1f7ab8272ca80a1",
   "lastOpenFiles": [
+    "missingN.md",
     "Characters/_Character Info.md",
+    "Weapons/King Bible.md",
+    "Weapons/Santa Water.md",
+    "Weapons/_Weapon Info.md",
+    "Characters/Imelda Belpaese.md",
+    "Weapons",
+    "Characters/Antonio Belpaese.md",
+    "Weapons/Whip.md",
     "Characters"
   ]
 }
