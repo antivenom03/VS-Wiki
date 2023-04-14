@@ -4,3 +4,6 @@ Every character controls the same, moving up, down, left, right, etc. and attack
 
 Each character comes with unique starting stats, a starting weapon, and a unique passive ability, which is usually affects that character's stats overtime.
 
+## standard characters
+Name | weapon | Ability
+Antonio 
