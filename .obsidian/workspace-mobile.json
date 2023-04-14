@@ -11,8 +11,12 @@
             "id": "93119d8b47891c48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/_Character Info.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/_Character Info.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/_Character Info.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/_Character Info.md"
+          }
         }
       }
     ],
@@ -124,5 +132,11 @@
     }
   },
   "active": "93119d8b47891c48",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Items/About Items.md",
+    "Characters/_Character Info.md",
+    "Characters",
+    "Items",
+    "Weapons"
+  ]
 }
