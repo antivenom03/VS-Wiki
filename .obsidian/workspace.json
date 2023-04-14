@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stages/_Stage Info.md",
+                "file": "Characters/_Character Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stages/_Stage Info.md",
+                "file": "Characters/_Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stages/_Stage Info.md",
+                "file": "Characters/_Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stages/_Stage Info.md"
+                "file": "Characters/_Character Info.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "9c1464cf90c86316",
   "lastOpenFiles": [
-    "Stages/Legacy of the Moonspell.md",
     "Stages/_Stage Info.md",
+    "Stages/Legacy of the Moonspell.md",
     "Stages",
     "Characters/_Character Info.md",
     "Home.md",

@@ -24,7 +24,7 @@ Name|weapon|Ability
 [[Giovanna Grana]]|
 [[Poppea Pecorina]]|
 [[Concetta Caciotta]]|
-[[Mortaccio]]|
+[[Mortaccio]]|[[Bone]]|
 [[Yatta Cavallo]]|
 [[Bianca Ramba]]|
 [[O'Sole Meeo]]|
