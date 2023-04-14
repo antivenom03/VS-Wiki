@@ -6,5 +6,5 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 
 ## standard characters
 Name|weapon|Ability
---|--|--
+-|-|--
 Antonio Belpaese|whip|etc
