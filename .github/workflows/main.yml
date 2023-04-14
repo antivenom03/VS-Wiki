@@ -1,0 +1,47 @@
+name: Deploy to gh-pages
+
+on:
+  push:
+    branches: main
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3.3.0
+        with:
+          ref: main
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install python3
+          pip install --upgrade pip
+          pip install git+https://github.com/obsidian-html/obsidian-html.git
+          
+      - name: grab
+        run: | 
+          git config --global user.email "jojoivy03@gmail.com"
+          git config --global user.name "Jo"
+          git fetch
+          git checkout pages
+          git clone https://github.com/antivenom03/VS-Wiki.git
+        
+      - name: Build site
+        run: |
+          obsidianhtml convert -i /home/runner/work/VS-Wiki/VS-Wiki/config.yaml
+          cp -r /home/runner/work/VS-Wiki/VS-Wiki/output/html/. .
+ 
+      - name: add
+        run: |
+          git add .
+          git rm -f --cached VS-Wiki
+          
+      - name: commit
+        run: |
+          git commit -m "Deploy"
+          
+      - name: push
+        run: |
+          git push -u https://github.com/antivenom03/VS-Wiki.git
