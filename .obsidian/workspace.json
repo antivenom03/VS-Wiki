@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a540bb7fd064bd6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Imelda Belpaese.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1f7ab8272ca80a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/_Character Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9c1464cf90c86316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Stages/_Stage Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Imelda Belpaese.md",
+                "file": "Stages/_Stage Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Imelda Belpaese.md",
+                "file": "Stages/_Stage Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Imelda Belpaese.md"
+                "file": "Stages/_Stage Info.md"
               }
             }
           }
@@ -170,15 +145,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0d8913fb599f9fa",
+  "active": "9c1464cf90c86316",
   "lastOpenFiles": [
+    "Stages/Legacy of the Moonspell.md",
+    "Stages/_Stage Info.md",
+    "Stages",
     "Characters/_Character Info.md",
     "Home.md",
+    "Characters/Imelda Belpaese.md",
     "Characters/missingN.md",
     "Weapons/King Bible.md",
     "Weapons/Santa Water.md",
     "Weapons/_Weapon Info.md",
-    "Characters/Imelda Belpaese.md",
     "Weapons",
     "Characters/Antonio Belpaese.md",
     "Weapons/Whip.md",
