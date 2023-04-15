@@ -42,7 +42,7 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 ## DLC Characters   
    
 ---   
-#### [Legacy of the Moonspell](../Stages/Legacy%20of%20the%20Moonspell.md)   
+#### [Legacy of the Moonspell](../Legacy%20of%20the%20Moonspell.md)   
 |Name|weapon|Ability|   
 |-|-|-|   
 |[Miang Moonspell](/not_created.md)|   
