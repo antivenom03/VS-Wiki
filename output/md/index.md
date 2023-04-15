@@ -2,4 +2,4 @@
 {}
 ---
    
-[_Character Info](./Characters/_Character%20Info.md)
+[!Character Info](./Characters/%21Character%20Info.md)
