@@ -11,33 +11,33 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 ## Standard Characters   
    
 ---   
-|Name|weapon|Ability|   
-|-|-|-|   
-|[Antonio Belpaese](../Characters/Antonio%20Belpaese.md)|[Whip](../Weapons/Whip.md)|   
-|[Imelda Belpaese](../Characters/Imelda%20Belpaese.md)|[Magic Wand](/not_created.md)|   
-|[Pasqualina Belpaese](/not_created.md)|[Runetracer](/not_created.md)|   
-|[Gennaro Belpaese](/not_created.md)|[Knife](/not_created.md)|   
-|[Arca Ladonna](/not_created.md)|[Fire Wand](/not_created.md)|   
-|[Porta Ladonna](/not_created.md)|[Lightning Ring](/not_created.md)|   
-|[Lama Ladonna](/not_created.md)|[Axe](/not_created.md)|   
-|[Poe Ratcho](/not_created.md)|[Garlic](/not_created.md)|   
-|[Suor Clerici](/not_created.md)|[Santa Water](../Weapons/Santa%20Water.md)|   
-|[Dommario](/not_created.md)|[King Bible](../Weapons/King%20Bible.md)|   
-|[Krochi Freetto](/not_created.md)|[Cross](/not_created.md)|   
-|[Chrstine Davain](/not_created.md)|[Pentagram](/not_created.md)|   
-|[Pugnala Provola](/not_created.md)|[Pjiera Der Tuphello](/not_created.md) and [Eight the Sparrow](/not_created.md)|   
-|[Giovanna Grana](/not_created.md)|   
-|[Poppea Pecorina](/not_created.md)|   
-|[Concetta Caciotta](/not_created.md)|   
-|[Mortaccio](/not_created.md)|[Bone](/not_created.md)|   
-|[Yatta Cavallo](/not_created.md)|   
-|[Bianca Ramba](/not_created.md)|   
-|[O'Sole Meeo](/not_created.md)|   
-|[Sir Ambrojoe](/not_created.md)|   
-|[Iguana Gallo Valletto](/not_created.md)|   
-|[Divano Thelma](/not_created.md)|   
-|[Zi'Assunta Belpaese](/not_created.md)|   
-|[Queen Sigma](/not_created.md)|   
+| Name | weapon | Ability |   
+| --- | --- | --- |   
+| [Antonio Belpaese](../Characters/Antonio%20Belpaese.md) | [Whip](../Weapons/Whip.md) |  |   
+| [Imelda Belpaese](../Characters/Imelda%20Belpaese.md) | [Magic Wand](/not_created.md) |  |   
+| [Pasqualina Belpaese](/not_created.md) | [Runetracer](/not_created.md) |  |   
+| [Gennaro Belpaese](/not_created.md) | [Knife](/not_created.md) |  |   
+| [Arca Ladonna](/not_created.md) | [Fire Wand](/not_created.md) |  |   
+| [Porta Ladonna](/not_created.md) | [Lightning Ring](/not_created.md) |  |   
+| [Lama Ladonna](/not_created.md) | [Axe](/not_created.md) |  |   
+| [Poe Ratcho](/not_created.md) | [Garlic](/not_created.md) |  |   
+| [Suor Clerici](/not_created.md) | [Santa Water](../Weapons/Santa%20Water.md) |  |   
+| [Dommario](/not_created.md) | [King Bible](../Weapons/King%20Bible.md) |  |   
+| [Krochi Freetto](/not_created.md) | [Cross](/not_created.md) |  |   
+| [Chrstine Davain](/not_created.md) | [Pentagram](/not_created.md) |  |   
+| [Pugnala Provola](/not_created.md) | [Pjiera Der Tuphello](/not_created.md) and [Eight the Sparrow](/not_created.md) |  |   
+| [Giovanna Grana](/not_created.md) | [Gatti Amari](/not_created.md) |  |   
+| [Poppea Pecorina](/not_created.md) | [Song of Mana](/not_created.md) |  |   
+| [Concetta Caciotta](/not_created.md) | [Shadow Pinion](/not_created.md) |  |   
+| [Mortaccio](/not_created.md) | [Bone](/not_created.md) |  |   
+| [Yatta Cavallo](/not_created.md) | [Cherry Bomb](/not_created.md) |  |   
+| [Bianca Ramba](/not_created.md) | [Carréllo](/not_created.md) |  |   
+| [O'Sole Meeo](/not_created.md) | [Celestial Dusting](/not_created.md) |  |   
+| [Sir Ambrojoe](/not_created.md) | [La Robba](/not_created.md) |  |   
+| [Iguana Gallo Valletto](/not_created.md) | [Clock Lancet](/not_created.md) |  |   
+| [Divano Thelma](/not_created.md) | [Laurel](/not_created.md) |  |   
+| [Zi'Assunta Belpaese](/not_created.md) | [Vento Sacro](/not_created.md) |  |   
+| [Queen Sigma](/not_created.md) | [Victory Sword](/not_created.md) |  |   
    
 ## DLC Characters   
    
