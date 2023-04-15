@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/VS-Wiki";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '232408957804183759325777606647716223591'                       // used to check whether the localStorage data is stale
+var gzip_hash = '245746621625435696212496266926354075637'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
