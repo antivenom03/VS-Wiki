@@ -2,18 +2,6 @@
 {}
 ---
    
-<head>   
-	<style>   
-		table, td, th {   
-			border: 1px solid;   
-		}   
-		table {   
-			width: 100%;   
-			border-collapse: collapse;   
-		}   
-	</style>   
-<head>   
-   
 Characters are exactly what they sound like, they're the players' way of playing the game   
    
 Every character controls the same, moving up, down, left, right, etc. and attacking automatically   
@@ -23,17 +11,6 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 ## Standard Characters   
    
 ---   
-<table>     
-  <tr>     
-    <th>Name</th>     
-    <th>Weapon</th>     
-    <th>Ability</th>     
-  </tr>     
-  <tr>     
-    <td> [Antonio Belpaese](../Characters/Antonio%20Belpaese.md) </td>     
-  </tr>   
-</table>   
-   
 |Name|weapon|Ability|   
 |-|-|-|   
 |[Antonio Belpaese](../Characters/Antonio%20Belpaese.md)|[Whip](../Weapons/Whip.md)|   
@@ -66,48 +43,47 @@ Each character comes with unique starting stats, a starting weapon, and a unique
    
 ---   
 #### [Legacy of the Moonspell](../Stages/Legacy%20of%20the%20Moonspell.md)   
-Name|weapon|Ability   
+|Name|weapon|Ability|   
+|-|-|-|   
+|[Miang Moonspell](/not_created.md)|   
+|[Menya Moonspell](/not_created.md)|   
+|[Syuuto Moonspell](/not_created.md)|   
+|[Babi-Onna](/not_created.md)|   
+|[McCoy-Oni](/not_created.md)|   
+|[Megalo Menya Moonspell](/not_created.md)|   
+|[Megalo Syuuto Moonspell](/not_created.md)|   
+|[Gav'Et-Oni](/not_created.md)|   
    
--|-|-   
-[Miang Moonspell](/not_created.md)|   
-[Menya Moonspell](/not_created.md)|   
-[Syuuto Moonspell](/not_created.md)|   
-[Babi-Onna](/not_created.md)|   
-[McCoy-Oni](/not_created.md)|   
-[Megalo Menya Moonspell](/not_created.md)|   
-[Megalo Syuuto Moonspell](/not_created.md)|   
-[Gav'Et-Oni](/not_created.md)|   
-   
-   
----   
 #### [Tides of the Foscari](/not_created.md)   
-Name|weapon|Ability   
-   
--|-|-   
-[Eleanor Uziron](/not_created.md)|   
-[Maruto Cuts](/not_created.md)|   
-[Keitha Muort](/not_created.md)|   
-[Luminaire Foscari](/not_created.md)|   
-[Genevieve Gruyère](/not_created.md)|   
-[Je-Ne-Viv](/not_created.md)|   
-[Sammy](/not_created.md)|   
-[Rottin'Ghoul](/not_created.md)|   
+|Name|weapon|Ability|   
+|-|-|-|   
+|[Eleanor Uziron](/not_created.md)|   
+|[Maruto Cuts](/not_created.md)|   
+|[Keitha Muort](/not_created.md)|   
+|[Luminaire Foscari](/not_created.md)|   
+|[Genevieve Gruyère](/not_created.md)|   
+|[Je-Ne-Viv](/not_created.md)|   
+|[Sammy](/not_created.md)|   
+|[Rottin'Ghoul](/not_created.md)|   
    
 ## Secret Characters   
    
 ---   
-Name|weapon|Ability   
-   
--|-|-   
-[Exdash Exiviiq](/not_created.md)|   
-[Toastie](/not_created.md)|   
-[Smith IV](/not_created.md)|   
-[Random](/not_created.md)|   
-[Boon Marrabbio](/not_created.md)|   
-[Avatar Infernas](/not_created.md)|   
-[Minnah Mannarah](/not_created.md)|   
-[Leda](/not_created.md)|   
-[Cosmo Pavone](/not_created.md)|   
-[Peppino](/not_created.md)|   
-[Big Trouser](/not_created.md)|   
-[missingN▯](/not_created.md)|
+|Name|weapon|Ability|   
+|-|-|-|   
+|[Exdash Exiviiq](/not_created.md)|   
+|[Toastie](/not_created.md)|   
+|[Smith IV](/not_created.md)|   
+|[Random](/not_created.md)|   
+|[Boon Marrabbio](/not_created.md)|   
+|[Avatar Infernas](/not_created.md)|   
+|[Minnah Mannarah](/not_created.md)|   
+|[Leda](/not_created.md)|   
+|[Cosmo Pavone](/not_created.md)|   
+|[Peppino](/not_created.md)|   
+|[Big Trouser](/not_created.md)|   
+|[missingN▯](/not_created.md)|   
+|[Gains Boros](/not_created.md)|   
+|[Gyorunton](/not_created.md)|   
+|[Mask of the Red Death](/not_created.md)|   
+|[Scorej-Oni](/not_created.md)|
