@@ -6,6 +6,17 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 
 ## Standard Characters
 ---
+<table>  
+  <tr>  
+    <th>Name</th>  
+    <th>Weapon</th>  
+    <th>Ability</th>  
+  </tr>  
+  <tr>  
+    <td> [[Antonio Belpaese]] </td>  
+  </tr>
+</table>
+
 Name|weapon|Ability
 -|-|-
 [[Antonio Belpaese]]|[[Whip]]|etc

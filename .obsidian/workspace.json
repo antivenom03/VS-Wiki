@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "Characters/!Character Info.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/!Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/!Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Characters/!Character Info.md"
               }
             }
           }
@@ -147,10 +147,10 @@
   },
   "active": "9c1464cf90c86316",
   "lastOpenFiles": [
+    "Home.md",
     "Weapons/!Weapon Info.md",
     "Stages/!Stage Info.md",
     "Characters/!Character Info.md",
-    "Home.md",
     "Stages/Legacy of the Moonspell.md",
     "Stages",
     "Characters/Imelda Belpaese.md",
