@@ -13,7 +13,7 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 ---   
 | Name | weapon | Ability |   
 | --- | --- | --- |   
-| [Antonio Belpaese](../Characters/Antonio%20Belpaese.md) | [Whip](../Weapons/Whip.md) |  |   
+| [Antonio Belpaese](../Characters/Antonio%20Belpaese.md) | [Whip](../Weapons/Whip.md) | Gains 10% more damage every 10 levels (max +50%). |   
 | [Imelda Belpaese](../Characters/Imelda%20Belpaese.md) | [Magic Wand](/not_created.md) |  |   
 | [Pasqualina Belpaese](/not_created.md) | [Runetracer](/not_created.md) |  |   
 | [Gennaro Belpaese](/not_created.md) | [Knife](/not_created.md) |  |   
