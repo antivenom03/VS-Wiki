@@ -6,33 +6,33 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 
 ## Standard Characters
 ---
-|Name|weapon|Ability|
-|-|-|-|
-|[[Antonio Belpaese]]|[[Whip]]|
-|[[Imelda Belpaese]]|[[Magic Wand]]|
-|[[Pasqualina Belpaese]]|[[Runetracer]]|
-|[[Gennaro Belpaese]]|[[Knife]]|
-|[[Arca Ladonna]]|[[Fire Wand]]|
-|[[Porta Ladonna]]|[[Lightning Ring]]|
-|[[Lama Ladonna]]|[[Axe]]|
-|[[Poe Ratcho]]|[[Garlic]]|
-|[[Suor Clerici]]|[[Santa Water]]|
-|[[Dommario]]|[[King Bible]]|
-|[[Krochi Freetto]]|[[Cross]]|
-|[[Chrstine Davain]]|[[Pentagram]]|
-|[[Pugnala Provola]]|[[Pjiera Der Tuphello]] and [[Eight the Sparrow]]|
-|[[Giovanna Grana]]|
-|[[Poppea Pecorina]]|
-|[[Concetta Caciotta]]|
-|[[Mortaccio]]|[[Bone]]|
-|[[Yatta Cavallo]]|
-|[[Bianca Ramba]]|
-|[[O'Sole Meeo]]|
-|[[Sir Ambrojoe]]|
-|[[Iguana Gallo Valletto]]|
-|[[Divano Thelma]]|
-|[[Zi'Assunta Belpaese]]|
-|[[Queen Sigma]]|
+| Name | weapon | Ability |
+| --- | --- | --- |
+| [[Antonio Belpaese]] | [[Whip]] |  |
+| [[Imelda Belpaese]] | [[Magic Wand]] |  |
+| [[Pasqualina Belpaese]] | [[Runetracer]] |  |
+| [[Gennaro Belpaese]] | [[Knife]] |  |
+| [[Arca Ladonna]] | [[Fire Wand]] |  |
+| [[Porta Ladonna]] | [[Lightning Ring]] |  |
+| [[Lama Ladonna]] | [[Axe]] |  |
+| [[Poe Ratcho]] | [[Garlic]] |  |
+| [[Suor Clerici]] | [[Santa Water]] |  |
+| [[Dommario]] | [[King Bible]] |  |
+| [[Krochi Freetto]] | [[Cross]] |  |
+| [[Chrstine Davain]] | [[Pentagram]] |  |
+| [[Pugnala Provola]] | [[Pjiera Der Tuphello]] and [[Eight the Sparrow]] |  |
+| [[Giovanna Grana]] | [[Gatti Amari]] |  |
+| [[Poppea Pecorina]] | [[Song of Mana]] |  |
+| [[Concetta Caciotta]] | [[Shadow Pinion]] |  |
+| [[Mortaccio]] | [[Bone]] |  |
+| [[Yatta Cavallo]] | [[Cherry Bomb]] |  |
+| [[Bianca Ramba]] | [[Carréllo]] |  |
+| [[O'Sole Meeo]] | [[Celestial Dusting]] |  |
+| [[Sir Ambrojoe]] | [[La Robba]] |  |
+| [[Iguana Gallo Valletto]] | [[Clock Lancet]] |  |
+| [[Divano Thelma]] | [[Laurel]] |  |
+| [[Zi'Assunta Belpaese]] | [[Vento Sacro]] |  |
+| [[Queen Sigma]] | [[Victory Sword]] |  |
 
 ## DLC Characters
 ---

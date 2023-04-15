@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/!Weapon Info.md",
+                "file": "Characters/!Character Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/!Weapon Info.md",
+                "file": "Characters/!Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/!Weapon Info.md",
+                "file": "Characters/!Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/!Weapon Info.md"
+                "file": "Characters/!Character Info.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0d8913fb599f9fa",
+  "active": "9c1464cf90c86316",
   "lastOpenFiles": [
-    "Characters/!Character Info.md",
     "Weapons/!Weapon Info.md",
+    "Characters/!Character Info.md",
     "Home.md",
     "Stages/!Stage Info.md",
     "Legacy of the Moonspell.md",
