@@ -1,1 +1,1 @@
-test
+[[_Character Info]]
