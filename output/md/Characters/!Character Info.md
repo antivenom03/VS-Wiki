@@ -2,6 +2,18 @@
 {}
 ---
    
+<head>   
+	<style>   
+		table, td, th {   
+			border: 1px solid;   
+		}   
+		table {   
+			width: 100%;   
+			border-collapse: collapse;   
+		}   
+	</style>   
+<head>   
+   
 Characters are exactly what they sound like, they're the players' way of playing the game   
    
 Every character controls the same, moving up, down, left, right, etc. and attacking automatically   
