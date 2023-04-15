@@ -2,4 +2,4 @@
 {}
 ---
    
-test
+[_Character Info](./Characters/_Character%20Info.md)
