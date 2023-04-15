@@ -1,1 +1,1 @@
-[[_Character Info]]
+[[!Character Info]]
