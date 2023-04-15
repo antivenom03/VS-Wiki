@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/!Character Info.md",
+                "file": "Weapons/!Weapon Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/!Character Info.md",
+                "file": "Weapons/!Weapon Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/!Character Info.md",
+                "file": "Weapons/!Weapon Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/!Character Info.md"
+                "file": "Weapons/!Weapon Info.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,15 +143,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "9c1464cf90c86316",
   "lastOpenFiles": [
-    "Home.md",
-    "Weapons/!Weapon Info.md",
-    "Stages/!Stage Info.md",
     "Characters/!Character Info.md",
+    "Weapons/!Weapon Info.md",
+    "Home.md",
+    "Stages/!Stage Info.md",
     "Stages/Legacy of the Moonspell.md",
     "Stages",
     "Characters/Imelda Belpaese.md",

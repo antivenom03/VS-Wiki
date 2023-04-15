@@ -20,7 +20,7 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 |[[Dommario]]|[[King Bible]]|
 |[[Krochi Freetto]]|[[Cross]]|
 |[[Chrstine Davain]]|[[Pentagram]]|
-|[[Pugnala Provola]]|
+|[[Pugnala Provola]]|[[Pjiera Der Tuphello]] and [[Eight the Sparrow]]|
 |[[Giovanna Grana]]|
 |[[Poppea Pecorina]]|
 |[[Concetta Caciotta]]|
