@@ -29,33 +29,33 @@ Each character comes with unique starting stats, a starting weapon, and a unique
   </tr>
 </table>
 
-Name|weapon|Ability
--|-|-
-[[Antonio Belpaese]]|[[Whip]]|etc
-[[Imelda Belpaese]]|[[Magic Wand]]|etc
-[[Pasqualina Belpaese]]|[[Runetracer]]|etc
-[[Gennaro Belpaese]]|[[Knife]]
-[[Arca Ladonna]]|[[Fire Wand]]
-[[Porta Ladonna]]|[[Lightning Ring]]
-[[Lama Ladonna]]|[[Axe]]
-[[Poe Ratcho]]|[[Garlic]]
-[[Suor Clerici]]|[[Santa Water]]
-[[Dommario]]|[[King Bible]]
-[[Krochi Freetto]]|[[Cross]]
-[[Chrstine Davain]]|[[Pentagram]]
-[[Pugnala Provola]]|
-[[Giovanna Grana]]|
-[[Poppea Pecorina]]|
-[[Concetta Caciotta]]|
-[[Mortaccio]]|[[Bone]]|
-[[Yatta Cavallo]]|
-[[Bianca Ramba]]|
-[[O'Sole Meeo]]|
-[[Sir Ambrojoe]]|
-[[Iguana Gallo Valletto]]|
-[[Divano Thelma]]|
-[[Zi'Assunta Belpaese]]|
-[[Queen Sigma]]|
+|Name|weapon|Ability|
+|-|-|-|
+|[[Antonio Belpaese]]|[[Whip]]|
+|[[Imelda Belpaese]]|[[Magic Wand]]|
+|[[Pasqualina Belpaese]]|[[Runetracer]]|
+|[[Gennaro Belpaese]]|[[Knife]]|
+|[[Arca Ladonna]]|[[Fire Wand]]|
+|[[Porta Ladonna]]|[[Lightning Ring]]|
+|[[Lama Ladonna]]|[[Axe]]|
+|[[Poe Ratcho]]|[[Garlic]]|
+|[[Suor Clerici]]|[[Santa Water]]|
+|[[Dommario]]|[[King Bible]]|
+|[[Krochi Freetto]]|[[Cross]]|
+|[[Chrstine Davain]]|[[Pentagram]]|
+|[[Pugnala Provola]]|
+|[[Giovanna Grana]]|
+|[[Poppea Pecorina]]|
+|[[Concetta Caciotta]]|
+|[[Mortaccio]]|[[Bone]]|
+|[[Yatta Cavallo]]|
+|[[Bianca Ramba]]|
+|[[O'Sole Meeo]]|
+|[[Sir Ambrojoe]]|
+|[[Iguana Gallo Valletto]]|
+|[[Divano Thelma]]|
+|[[Zi'Assunta Belpaese]]|
+|[[Queen Sigma]]|
 
 ## DLC Characters
 ---
