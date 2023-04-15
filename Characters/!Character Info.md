@@ -76,3 +76,7 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 |[[Peppino]]|
 |[[Big Trouser]]|
 |[[missingN▯]]|
+|[[Gains Boros]]|
+|[[Gyorunton]]|
+|[[Mask of the Red Death]]|
+|[[Scorej-Oni]]|
