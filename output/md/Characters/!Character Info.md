@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# !Character Info   
    
 Characters are exactly what they sound like, they're the players' way of playing the game   
    
@@ -9,7 +10,6 @@ Every character controls the same, moving up, down, left, right, etc. and attack
 Each character comes with unique starting stats, a starting weapon, and a unique passive ability, which is usually affects that character's stats overtime.   
    
 ## Standard Characters   
-   
 ---   
 | Name | weapon | Ability |   
 | --- | --- | --- |   
@@ -40,7 +40,6 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 | [Queen Sigma](/not_created.md) | [Victory Sword](/not_created.md) |  |   
    
 ## DLC Characters   
-   
 ---   
 #### [Legacy of the Moonspell](../Legacy%20of%20the%20Moonspell.md)   
 |Name|weapon|Ability|   
@@ -67,7 +66,6 @@ Each character comes with unique starting stats, a starting weapon, and a unique
 |[Rottin'Ghoul](/not_created.md)|   
    
 ## Secret Characters   
-   
 ---   
 |Name|weapon|Ability|   
 |-|-|-|   

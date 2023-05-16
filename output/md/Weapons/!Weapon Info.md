@@ -1,11 +1,11 @@
 ---
 {}
 ---
+# !Weapon Info   
    
 Weapons hit the enemies add more here later   
    
 ## Base Weapons   
-   
 ---   
 ### Base Game   
 | Name | Description |   
@@ -55,7 +55,6 @@ Weapons hit the enemies add more here later
 |  |  |   
    
 ## Evolutions   
-   
 ---   
 ### Base Game   
 | Name | Description |   

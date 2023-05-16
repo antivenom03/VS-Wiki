@@ -1,0 +1,5 @@
+command:
+- convert
+config_path: /home/runner/work/VS-Wiki/VS-Wiki/config.yaml
+literals:
+  -i: /home/runner/work/VS-Wiki/VS-Wiki/config.yaml

@@ -1,0 +1,52 @@
+Resource log:
+-------------
+(arguments.yml, config.yml, and user_config.yml created by setup module)
+
+[2023-05-16T20:52:21.721353] process_config       read       config.yml          
+[2023-05-16T20:52:21.746119] process_config       read       arguments.yml       
+[2023-05-16T20:52:21.761414] process_config       altered    config.yml          
+[2023-05-16T20:52:21.761692] process_config       created    capabilities.json   
+[2023-05-16T20:52:21.817576] load_paths           read       config.yml          
+[2023-05-16T20:52:21.842346] load_paths           created    paths.json          
+[2023-05-16T20:52:21.867738] html_templater       read       config.yml          
+[2023-05-16T20:52:21.892508] html_templater       created    html/note.template.html
+[2023-05-16T20:52:21.892650] html_templater       stored     html_templater(HtmlTemplaterModule)/html_template
+[2023-05-16T20:52:21.892659] html_templater       stored     html_templater(HtmlTemplaterModule)/dynamic_inclusions
+[2023-05-16T20:52:21.892665] html_templater       created    html/dynamic_inclusions.html
+[2023-05-16T20:52:21.892730] html_templater       stored     html_templater(HtmlTemplaterModule)/dynamic_footer_inclusions
+[2023-05-16T20:52:21.892736] html_templater       created    html/dynamic_footer_inclusions.html
+[2023-05-16T20:52:21.918138] load_graphers        read       config.yml          
+[2023-05-16T20:52:21.942812] load_graphers        stored     load_graphers(LoadGrapherModule)/graph_template
+[2023-05-16T20:52:21.942832] load_graphers        created    html/graph.template.html
+[2023-05-16T20:52:21.943061] load_graphers        stored     load_graphers(LoadGrapherModule)/graph_full_page_template
+[2023-05-16T20:52:21.943070] load_graphers        created    html/graph_full_page.template.html
+[2023-05-16T20:52:21.943416] load_graphers        created    graphers.json       
+[2023-05-16T20:52:21.943522] load_graphers        stored     load_graphers(LoadGrapherModule)/graphers
+[2023-05-16T20:52:21.969031] copy_vault_to_tempdirectory read       config.yml          
+[2023-05-16T20:52:21.993625] copy_vault_to_tempdirectory read       paths.json          
+[2023-05-16T20:52:21.994115] copy_vault_to_tempdirectory stored     copy_vault_to_tempdirectory(VaultCopyModule)/tmpdir
+[2023-05-16T20:52:21.994203] copy_vault_to_tempdirectory stored     copy_vault_to_tempdirectory(VaultCopyModule)/paths
+[2023-05-16T20:52:21.994733] copy_vault_to_tempdirectory altered    paths.json          
+[2023-05-16T20:52:21.995071] copy_vault_to_tempdirectory retrieved  copy_vault_to_tempdirectory(VaultCopyModule)/paths
+[2023-05-16T20:52:22.109220] prepare_output_folders read       paths.json          
+[2023-05-16T20:52:22.109584] prepare_output_folders read       config.yml          
+[2023-05-16T20:52:22.136520] prepare_output_folders read       guid.txt            
+[2023-05-16T20:52:22.161704] get_file_list        read       paths.json          
+[2023-05-16T20:52:22.163038] get_file_list        created    index/excluded_files.json
+[2023-05-16T20:52:22.163416] get_file_list        read       config.yml          
+[2023-05-16T20:52:22.188008] get_file_list        created    index/files.json    
+[2023-05-16T20:52:22.188227] get_file_list        created    index/markdown_files.json
+[2023-05-16T20:52:22.213217] parse_metadata       read       index/markdown_files.json
+[2023-05-16T20:52:22.213444] parse_metadata       read       paths.json          
+[2023-05-16T20:52:22.214744] parse_metadata       created    index/metadata.json 
+[2023-05-16T20:52:22.215343] parse_metadata       read       config.yml          
+[2023-05-16T20:52:22.264687] filter_on_metadata   read       paths.json          
+[2023-05-16T20:52:22.264916] filter_on_metadata   read       index/markdown_files.json
+[2023-05-16T20:52:22.265113] filter_on_metadata   read       index/metadata.json 
+[2023-05-16T20:52:22.265359] filter_on_metadata   altered    index/markdown_files.json
+[2023-05-16T20:52:22.265966] filter_on_metadata   read       config.yml          
+[2023-05-16T20:52:22.290847] filter_on_metadata   read       index/files.json    
+[2023-05-16T20:52:22.290976] filter_on_metadata   altered    index/files.json    
+[2023-05-16T20:52:22.291155] filter_on_metadata   created    excluded_files_by_metadata.json
+
+(log.resources created by resource_logger module)
